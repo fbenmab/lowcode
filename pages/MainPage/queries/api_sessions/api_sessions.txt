@@ -1,0 +1,6 @@
+{ 
+	"locale": "en_EN", 
+	"username": "admin", 
+	"password": "admin", 
+	"tenant": "01"
+}

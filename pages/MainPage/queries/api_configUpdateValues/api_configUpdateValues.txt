@@ -1,0 +1,12 @@
+{
+    "sessionContext":{ 
+        "sessionId": {{api_sessions.data ? api_sessions.data.sessionId : 0}},  
+        "persId":0, 
+        "locale":"en_EN" 
+        },
+    "options": [],
+    "configContext": {{this.params.configContext}},
+    "uploadKeys": {{this.params.uploadKeys}},
+    "uploadValues": {{this.params.uploadValues}},
+    "resultKeys": {{this.params.resultKeys}}
+}

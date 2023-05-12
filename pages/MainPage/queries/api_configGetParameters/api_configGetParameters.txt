@@ -1,0 +1,28 @@
+{
+    "sessionContext":{ 
+        "sessionId": {{api_sessions.data ? api_sessions.data.sessionId : 0}},  
+        "persId":0, 
+        "locale":"en_EN" 
+        },
+    "options": [],
+    "parameterFilter":[
+			 	{
+            "key":"PARAMETER_SCOPE",
+            "value": {{this.params.scope || 'MesSuite'}}
+        }
+    ],
+    "parameterResultKeys": [
+        "PARAMETER_COMMENT",
+        "PARAMETER_DESCRIPTION",
+        "PARAMETER_DIMPATH",
+        "PARAMETER_ID",
+				"PARAMETER_NAME",
+        "PARAMETER_PARENT_ID",
+        "PARAMETER_SCOPE",
+        "PARAMETER_TYPE_ID",
+				"PARAMETER_TYPE_NAME",
+				"PARAMETER_METATYPE_ID",
+				"PARAMETER_METATYPE_NAME"
+					
+    ]
+}

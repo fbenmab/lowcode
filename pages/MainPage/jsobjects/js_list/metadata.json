@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "js_list",
+    "pageId": "MainPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "MainPage_js_list",
+  "deleted": false,
+  "gitSyncId": "64590520b747e869dc78ebd2_64590522b747e869dc78ecb8"
+}

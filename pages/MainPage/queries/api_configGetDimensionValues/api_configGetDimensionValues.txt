@@ -1,0 +1,14 @@
+{
+    "sessionContext":{ 
+        "sessionId": {{api_sessions.data ? api_sessions.data.sessionId : 0}},   
+        "persId":0, 
+        "locale":"en_EN" 
+        },
+    "options": [],
+    "dimensionFilter":[
+        {
+            "key": {{this.params.dimension || "CONFIG_APPTYPE"}},
+            "value":"*"
+        }
+    ]
+}

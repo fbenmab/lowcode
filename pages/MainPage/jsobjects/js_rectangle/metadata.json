@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "js_rectangle",
+    "pageId": "MainPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "MainPage_js_rectangle",
+  "deleted": false,
+  "gitSyncId": "64590520b747e869dc78ebd2_645906f2b747e869dc78ecd1"
+}

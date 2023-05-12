@@ -1,0 +1,23 @@
+{
+    "sessionContext":{ 
+        "sessionId": {{api_sessions.data ? api_sessions.data.sessionId : 0}},  
+        "persId":0, 
+        "locale":"en_EN" 
+        },
+    "options": [],
+    "configContext": {{this.params.configContext || []}},
+    "parameterFilter": {{this.params.parameterFilter || []}},
+    "parameterResultKeys": [
+        "PARAMETER_SCOPE",
+        "PARAMETER_TYPE_ID",
+        "PARAMETER_TYPE_NAME",
+				"PARAMETER_PROPERTIES",
+				"PARAMETER_METATYPE_ID",
+        "PARAMETER_METATYPE_NAME"
+    ],
+    "resultKeys": [
+        "CONFIG_DIMSET",
+        "CONFIG_KEY",
+        "CONFIG_VALUE"
+    ]
+}

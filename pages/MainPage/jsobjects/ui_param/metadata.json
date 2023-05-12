@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "ui_param",
+    "pageId": "MainPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "dataTypes",
+        "value": "[\"STRING\", \"INTEGER\", \"LONG\", \"DOUBLE\", \"FLOAT\", \"SHORT\", \"BOOLEAN\", \"TEXT\", \"LIST\", \"MAP\", \"ENUM\"]"
+      },
+      {
+        "name": "compName",
+        "value": "{\n  \"STRING\": \"InputString\",\n  \"INTEGER\": \"InputInteger\",\n  \"LONG\": \"InputLong\",\n  \"DOUBLE\": \"InputDouble\",\n  \"FLOAT\": \"InputFloat\",\n  \"BOOLEAN\": \"SelectBoolean\",\n  \"TEXT\": \"InputText\",\n  \"LIST\": \"TableList\",\n  \"MAP\": \"TableMap\",\n  \"ENUM\": \"SelectEnum\"\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "MainPage_ui_param",
+  "deleted": false,
+  "gitSyncId": "64590520b747e869dc78ebd2_64590522b747e869dc78ecba"
+}
